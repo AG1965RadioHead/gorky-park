@@ -75,9 +75,9 @@ img {
   border: none;
   object-fit: cover;
   cursor: pointer;
-  transition: width 0.2s;
-  transition: height 0.2s;
-  transition: border-radius 0.2s;
+  transition: width 0.5s;
+  transition: height 0.5s;
+  transition: border-radius 0.5s;
 }
 
 .activities-photo:hover {
