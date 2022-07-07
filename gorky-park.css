@@ -20,7 +20,7 @@ img {
 }
 
 .hero-section {
-  background-image: url("images/gorky-park.jpg");
+  background-image: url("gorky-park.jpg");
   background-size: cover;
   height: 336px;
   color: white;
