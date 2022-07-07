@@ -77,7 +77,7 @@ img {
   cursor: pointer;
   transition: width 0.5s;
   transition: height 0.5s;
-  transition: border-radius 0.5s;
+  transition: border-radius 0.2s;
 }
 
 .activities-photo:hover {
